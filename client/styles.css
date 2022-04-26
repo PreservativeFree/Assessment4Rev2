@@ -1,0 +1,39 @@
+h1 {
+    color: red;
+}
+
+h2 {
+    color: #26CE04; 
+}
+
+h3 {
+    color: #f92d92;
+}
+
+h4, h5, h6 {
+
+}
+
+img {
+
+}
+
+p {
+    text-align: right;
+}
+
+div {
+    height: 500px;
+    width: 500px;
+    background-color: blueviolet;
+    color: white;
+    padding: 250px;
+    border: sold 5px black;
+    margin: 50px;
+    box-sizing: border-box;
+}
+
+h1 > span {
+    font-size: smaller;
+    margin: 10%;
+}
